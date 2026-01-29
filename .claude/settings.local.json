@@ -3,7 +3,15 @@
     "allow": [
       "WebSearch",
       "Bash(python3 -c \" import sys import json content = sys.stdin.read\\(\\) lines = content.strip\\(\\).split\\(''\\\\n''\\) for line in lines: try: obj = json.loads\\(line\\) if ''message'' in obj and ''content'' in obj[''message'']: for item in obj[''message''][''content'']: if item.get\\(''type''\\) == ''text'': text = item.get\\(''text'', ''''\\) if len\\(text\\) > 500 and \\(''Source'' in text or ''DESI'' in text or ''Eurostat'' in text or ''CEDEFOP'' in text\\): print\\(''---SECTION---''\\) print\\(text[:5000]\\) print\\(\\) except: pass \")",
-      "Bash(python3 -c \" import sys import json content = sys.stdin.read\\(\\) lines = content.strip\\(\\).split\\(''\\\\n''\\) for line in lines: try: obj = json.loads\\(line\\) if ''message'' in obj and ''content'' in obj[''message'']: for item in obj[''message''][''content'']: if item.get\\(''type''\\) == ''tool_use'' and item.get\\(''name''\\) == ''Write'': inp = item.get\\(''input'', {}\\) if ''content'' in inp: print\\(inp[''content''][:15000]\\) except: pass \")"
+      "Bash(python3 -c \" import sys import json content = sys.stdin.read\\(\\) lines = content.strip\\(\\).split\\(''\\\\n''\\) for line in lines: try: obj = json.loads\\(line\\) if ''message'' in obj and ''content'' in obj[''message'']: for item in obj[''message''][''content'']: if item.get\\(''type''\\) == ''tool_use'' and item.get\\(''name''\\) == ''Write'': inp = item.get\\(''input'', {}\\) if ''content'' in inp: print\\(inp[''content''][:15000]\\) except: pass \")",
+      "Bash(curl:*)",
+      "WebFetch(domain:digital-skills-jobs.europa.eu)",
+      "WebFetch(domain:www.mckinsey.com)",
+      "WebFetch(domain:www.weforum.org)",
+      "WebFetch(domain:www.cedefop.europa.eu)",
+      "WebFetch(domain:op.europa.eu)",
+      "WebFetch(domain:www.linkedin.com)",
+      "Bash(python3:*)"
     ]
   }
 }
