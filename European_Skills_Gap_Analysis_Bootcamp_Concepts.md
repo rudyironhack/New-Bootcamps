@@ -37,7 +37,7 @@ Europe faces a critical tech talent shortage. The EU employed 10.3 million ICT s
 - **170 million new jobs created by 2030** (14% of current employment)
 - **92 million jobs displaced by 2030** (8% of current employment)
 - **Net +78 million jobs** globally
-- **Human-machine task frontier:** Currently 47% of tasks performed by humans → projected 33% by 2030
+- **Human-machine task frontier:** Currently 47% of tasks performed by humans:projected 33% by 2030
 
 **Europe-wide:**
 - **7.8 million ICT specialist projected shortfall** by 2030 (EU had 10.3M in 2024, needs 20M, projected to reach only 12M) ([EU Digital Decade](https://digital-skills-jobs.europa.eu/en/latest/news/european-commission-publishes-2025-state-digital-decade-package))
@@ -59,11 +59,11 @@ Percentage of workforce skills expected to change significantly by 2030:
 - **France:** 33%
 - **Netherlands:** 30%
 
-*Note: Higher disruption = greater reskilling demand = larger bootcamp market opportunity*
+Higher disruption means greater reskilling demand and larger bootcamp market opportunity.
 
 ### 1.2 Critical Skills Shortages by Domain
 
-**By severity** ([McKinsey 2025](https://www.mckinsey.com/mgi/our-research/a-new-future-of-work-the-race-to-deploy-ai-and-raise-skills-in-europe-and-beyond)) - *Note: Specific percentages from McKinsey internal analysis, not publicly documented in cited report*:
+**By severity** ([McKinsey 2025](https://www.mckinsey.com/mgi/our-research/a-new-future-of-work-the-race-to-deploy-ai-and-raise-skills-in-europe-and-beyond)) (percentages from McKinsey internal analysis, not publicly documented):
 1. **Advanced IT skills and programming** - 64% shortage
 2. **Advanced data analysis** - 59% shortage
 3. **Mathematical skills** - 52% shortage
@@ -78,8 +78,8 @@ Percentage of workforce skills expected to change significantly by 2030:
 - AI Engineer and AI Consultant = top 2 fastest-growing jobs globally (LinkedIn 2025, cited in Ironhack research)
 - Job posting growth: +81% for AI skills in 2024-2025 ([Emerging Tech Salaries](https://techstaq.io/emerging-tech-salaries-in-europe-2026-trends-and-the-future-of-tech-jobs-through-2030/))
 
-**Cybersecurity (CRITICAL):**
-- **4.76 million** global cybersecurity professionals shortage (ISC2 2024 figure). *Note: ISC2 stopped tracking headcount gaps in 2025. EU-specific gap estimated at 274,000 (ISC2 2023), but methodology differs from global figure* ([ISC2](https://www.isc2.org/Insights/2025/10/bridging-EU-cybersecurity-skills-gap-ECSF-and-certification-mapping))
+**Cybersecurity:**
+- 4.76 million global cybersecurity professionals shortage (ISC2 2024). ISC2 stopped tracking headcount gaps in 2025; EU-specific gap estimated at 274,000 (ISC2 2023). ([ISC2](https://www.isc2.org/Insights/2025/10/bridging-EU-cybersecurity-skills-gap-ECSF-and-certification-mapping))
 - **89% of security teams** report skills gaps ([ISC2](https://www.isc2.org/Insights/2025/10/bridging-EU-cybersecurity-skills-gap-ECSF-and-certification-mapping))
 - Job posting growth: +33% in 2024-2025 ([ENISA](https://www.enisa.europa.eu/news/enisa-news/higher-education-in-europe-understanding-the-cybersecurity-skills-gap-in-the-eu))
 
@@ -94,16 +94,16 @@ Percentage of workforce skills expected to change significantly by 2030:
 
 | Rank | Role | Portfolio Coverage | Opportunity |
 |------|------|-------------------|-------------|
-| 1 | Big Data Specialists | ✅ Data Science & ML | Covered |
-| 2 | **FinTech Engineers** | ❌ None | **NEW BOOTCAMP** |
-| 3 | AI and Machine Learning Specialists | ✅ AI Engineering | Covered |
-| 4 | Software and Applications Developers | ✅ AI Web Development | Covered |
-| 5 | Security Management Specialists | ⚠️ Partial (Cybersecurity) | Enhance existing |
-| 6 | Data Warehousing and BI Specialists | ✅ Data Eng + Data Science & ML | Covered* |
-| 7 | Autonomous/Electric Vehicle Specialists | ❌ Out of scope | N/A |
-| 8 | UI and UX Designers | ✅ UX/UI Design | Covered |
-| 9 | Light Truck/Delivery Services Drivers | ❌ Out of scope | N/A |
-| 10 | **Internet of Things (IoT) Specialists** | ❌ None | **NEW BOOTCAMP** |
+| 1 | Big Data Specialists | Yes - Data Science & ML | Covered |
+| 2 | **FinTech Engineers** | No - None | New bootcamp opportunity |
+| 3 | AI and Machine Learning Specialists | Yes - AI Engineering | Covered |
+| 4 | Software and Applications Developers | Yes - AI Web Development | Covered |
+| 5 | Security Management Specialists | Partial - Partial (Cybersecurity) | Enhance existing |
+| 6 | Data Warehousing and BI Specialists | Yes - Data Eng + Data Science & ML | Covered* |
+| 7 | Autonomous/Electric Vehicle Specialists | No - Out of scope | N/A |
+| 8 | UI and UX Designers | Yes - UX/UI Design | Covered |
+| 9 | Light Truck/Delivery Services Drivers | No - Out of scope | N/A |
+| 10 | **Internet of Things (IoT) Specialists** | No - None | New bootcamp opportunity |
 
 *\*Data Warehousing & BI covered by: Data Engineering (pipelines, Airflow, dbt, Spark, cloud warehouses) + Data Science & ML (SQL, Tableau/Power BI)*
 
@@ -111,12 +111,12 @@ Percentage of workforce skills expected to change significantly by 2030:
 
 | Opportunity | Current European Coverage | Ironhack Coverage |
 |-------------|--------------------------|-------------------|
-| AI Security & Adversarial ML | Zero dedicated bootcamps | ❌ None |
-| Computer Vision Engineering | 1 bootcamp (Datascientest) | ❌ None |
-| Green Tech & Sustainability AI | Zero bootcamps | ❌ None |
-| SAP S/4HANA Platform | Datascientest only | ❌ None |
-| Mobile Development with AI | KeepCoding (Spain) | ❌ None |
-| AI-Powered Java Development | Generic Java only (Spiced, Neue Fische) | ❌ None |
+| AI Security & Adversarial ML | Zero dedicated bootcamps | No - None |
+| Computer Vision Engineering | 1 bootcamp (Datascientest) | No - None |
+| Green Tech & Sustainability AI | Zero bootcamps | No - None |
+| SAP S/4HANA Platform | Datascientest only | No - None |
+| Mobile Development with AI | KeepCoding (Spain) | No - None |
+| AI-Powered Java Development | Generic Java only (Spiced, Neue Fische) | No - None |
 
 **Out of Scope:** Blockchain & Web3 (market volatility), Game Development (hardware constraints), Quantum Computing (too early stage) - see Part 3 for rationale.
 
@@ -169,7 +169,7 @@ Skills with highest GenAI substitution capacity (most vulnerable to automation):
 ### 2.2 Portfolio Strengths
 
 - **Most comprehensive AI-integrated portfolio** in European bootcamp market (6 AI-focused programs)
-- **Full data stack coverage:** Analytics → Data Science → Data Engineering
+- **Full data stack coverage:** Analytics:Data Science:Data Engineering
 - **Cloud and infrastructure:** DevOps, Cloud Engineering
 - **Cybersecurity foundation:** General security with CompTIA Security+ prep
 - **Multi-country presence:** Spain, Germany, France, Netherlands, Remote
@@ -196,35 +196,35 @@ For each identified skills gap:
 
 | Skills Gap | Current Coverage | Overlap % | Viable Standalone? | Recommendation |
 |------------|------------------|-----------|-------------------|----------------|
-| **MLOps & Production AI** | Data Science (lists MLOps), DevOps (CI/CD, K8s) | high | ❌ NO | Integrate into Data Science & ML |
-| **AI Security** | Cybersecurity (general), AI Engineering (models) | Separate domains | ⚠️ PARTIAL | Add module to Cybersecurity OR new Cloud & AI Security (note: 30-35% overlap likely) |
-| **LLM Engineering** | AI Engineering (LLMs, RAG, fine-tuning, prompt eng) | high | ❌ NO | Rebrand AI Engineering with stronger LLM angle |
-| **Computer Vision** | Data Science (CV listed), AI Engineering (1 CV project) |l ow | ✅ YES | Standalone viable - deep specialization |
-| **Green Tech & AI** | None | 0% | ✅ YES | Standalone viable - new domain |
-| **SAP S/4HANA** | None | 0% | ✅ YES | Standalone viable - new domain |
-| **Cloud Security** | Cybersecurity (general, not cloud-specific) | low | ⚠️ YES | Standalone viable but overlap with Cybersecurity may be higher than initially assessed |
-| **Mobile Development** | AI Web Dev (React web, not mobile) | low | ⚠️ YES | Viable but Mac constraint for iOS |
-| **FinTech Engineering** | None | 0% | ✅ YES | Standalone viable - WEF #2 fastest-growing role, zero portfolio coverage |
-| **IoT Development** | None | 0% | ✅ YES | Standalone viable - WEF #10 fastest-growing role, zero portfolio coverage |
-| **Data Warehousing & BI** | Data Engineering + Data Science & ML | high | ❌ NO | Already covered: Data Engineering (pipelines, warehouses) + Data Science & ML (SQL, BI tools) |
-| **AI-Powered Java Development** | AI Web Dev (JS), AI Engineering (Python) | low | ✅ YES | Standalone viable - combines #1 skills gap (64% shortage) with AI integration and AI-assisted coding |
+| **MLOps & Production AI** | Data Science (lists MLOps), DevOps (CI/CD, K8s) | high | No - NO | Integrate into Data Science & ML |
+| **AI Security** | Cybersecurity (general), AI Engineering (models) | Separate domains | Partial - PARTIAL | Add module to Cybersecurity OR new Cloud & AI Security (note: 30-35% overlap likely) |
+| **LLM Engineering** | AI Engineering (LLMs, RAG, fine-tuning, prompt eng) | high | No - NO | Rebrand AI Engineering with stronger LLM angle |
+| **Computer Vision** | Data Science (CV listed), AI Engineering (1 CV project) |l ow | Yes - YES | Standalone viable - deep specialization |
+| **Green Tech & AI** | None | 0% | Yes - YES | Standalone viable - new domain |
+| **SAP S/4HANA** | None | 0% | Yes - YES | Standalone viable - new domain |
+| **Cloud Security** | Cybersecurity (general, not cloud-specific) | low | Partial - YES | Standalone viable but overlap with Cybersecurity may be higher than initially assessed |
+| **Mobile Development** | AI Web Dev (React web, not mobile) | low | Partial - YES | Viable but Mac constraint for iOS |
+| **FinTech Engineering** | None | 0% | Yes - YES | Standalone viable - WEF #2 fastest-growing role, zero portfolio coverage |
+| **IoT Development** | None | 0% | Yes - YES | Standalone viable - WEF #10 fastest-growing role, zero portfolio coverage |
+| **Data Warehousing & BI** | Data Engineering + Data Science & ML | high | No - NO | Already covered: Data Engineering (pipelines, warehouses) + Data Science & ML (SQL, BI tools) |
+| **AI-Powered Java Development** | AI Web Dev (JS), AI Engineering (Python) | low | Yes - YES | Standalone viable - combines #1 skills gap (64% shortage) with AI integration and AI-assisted coding |
 
 ### 3.3 Key Findings
 
 **NOT viable as standalone bootcamps:**
 
 *High overlap with existing portfolio:*
-- **MLOps** → Integrate as 4-5 week module into Data Science & ML
-- **AI Security standalone** → Combine with Cloud Security (see Concept 1)
-- **LLM Engineering** → Rebrand AI Engineering with 40-50% LLM content (see Part 5)
-- **Data Warehousing & BI** (WEF #6) → Already covered by Data Engineering + Data Science & ML
+- **MLOps**:Integrate as 4-5 week module into Data Science & ML
+- **AI Security standalone**:Combine with Cloud Security (see Concept 1)
+- **LLM Engineering**:Rebrand AI Engineering with 40-50% LLM content (see Part 5)
+- **Data Warehousing & BI** (WEF #6):Already covered by Data Engineering + Data Science & ML
 
 *Out of scope:*
 - **Blockchain & Web3** - Market volatility, crypto-dependent demand
 - **Game Development** - Hardware constraints, different demographic
 - **Quantum Computing** - Too early stage, insufficient bootcamp content
 
-**Viable as standalone:** See table in 3.2 above → 8 concepts detailed in Part 4. 
+**Viable as standalone:** See table in 3.2 above:8 concepts detailed in Part 4. 
 
 ### 3.4 Competitive Portfolio Analysis
 
@@ -293,9 +293,9 @@ Eight bootcamp concepts evaluated using the gap analysis methodology. All eight 
 
 ---
 
-### **CONCEPT 1: Cloud & AI Security Engineering**
+### CONCEPT 1: Cloud & AI Security Engineering
 
-**What is Cloud & AI Security Engineering?**
+**Overview:**
 Cloud & AI Security Engineering is the discipline of protecting cloud infrastructure (AWS, Azure, GCP) and artificial intelligence systems from cyber attacks. It includes identity and access management (IAM), container and Kubernetes security, cloud data protection, and compliance with regulations like GDPR and SOC2. The AI Security component addresses emerging threats specific to AI systems: adversarial attacks (fooling models with manipulated inputs), model poisoning (corrupting training data), prompt injection (manipulating LLMs), and privacy attacks (extracting sensitive data from models).
 
 **Strategic Rationale:**
@@ -309,7 +309,7 @@ Merge Cloud Security (mature discipline) + AI Security (emerging field) into uni
 **Why Minimal Overlap with Current Portfolio:**
 - Ironhack's Cybersecurity bootcamp covers **general security** (network, SIEM, pentesting, malware)
 - This bootcamp is **cloud-specific** (AWS/Azure security, IAM, K8s security, compliance)
-- *Note: Overlap assessment may be understated - likely 30-35% overlap with existing Cybersecurity and Cloud Engineering bootcamps*
+- Overlap assessment may be understated - likely 30-35% overlap with existing Cybersecurity and Cloud Engineering bootcamps
 
 **Core Topics:**
 - Cloud fundamentals & architecture (AWS, Azure, GCP)
@@ -325,18 +325,18 @@ Merge Cloud Security (mature discipline) + AI Security (emerging field) into uni
 Cloud Security Engineer, Cloud Security Architect, AI Security Specialist, DevSecOps Engineer
 
 **Salary Outcomes (Europe):**
-€45K-55K entry → €65K-80K mid → €90K-120K+ senior
+€45K-55K entry:€65K-80K mid:€90K-120K+ senior
 
 **Vendor Certifications:**
 AWS Certified Security - Specialty, Azure Security Engineer Associate, CCSP prep
 
-**Hardware:** ✅ Standard laptop - All labs in cloud environments
+**Hardware:** Yes - Standard laptop - All labs in cloud environments
 
 ---
 
-### **CONCEPT 2: Computer Vision Engineering**
+### CONCEPT 2: Computer Vision Engineering
 
-**What is Computer Vision Engineering?**
+**Overview:**
 Computer Vision Engineering is the AI specialization that teaches machines to "see" and interpret images and video. It includes techniques for image classification (identifying what's in an image), object detection (locating where objects are), segmentation (separating objects from background), video tracking (following objects in motion), and 3D vision (reconstructing depth and space). Applications span autonomous vehicles, medical imaging, industrial quality control, augmented reality, retail analytics, and intelligent surveillance systems.
 
 **Strategic Rationale:**
@@ -347,7 +347,7 @@ Deep specialization in AI-powered image/video analysis. AI Engineering touches C
 - While "Computer Vision Engineer" is not a separate top-ranked role, computer vision expertise is in high demand as a specialization within AI/ML roles
 - Average salary €70-95K in Europe (€110K+ is senior-level only, not average)
 - Only Datascientest offers dedicated Computer Vision bootcamp in Europe ("Deep Learning for computer Vision") - minimal competition
-- *Concerns: Niche market, inflated salary data in initial research, instructor scarcity*
+- Concerns: Niche market, inflated salary data in initial research, instructor scarcity
 - Applications: autonomous vehicles, medical imaging, AR/VR, industrial inspection, retail analytics
 
 **Why Minimal Overlap:**
@@ -369,18 +369,18 @@ Deep specialization in AI-powered image/video analysis. AI Engineering touches C
 Computer Vision Engineer, CV Research Engineer, Autonomous Systems Engineer, Medical Imaging AI Specialist
 
 **Salary Outcomes (Europe):**
-€50K-65K entry → €70K-90K mid → €95K-110K+ senior (premium over general AI, but initial €110K+ average claim was inflated)
+€50K-65K entry:€70K-90K mid:€95K-110K+ senior (premium over general AI, but initial €110K+ average claim was inflated)
 
 **Vendor Certifications:**
 NVIDIA Deep Learning Institute - CV certification, AWS ML Specialty (CV focus)
 
-**Hardware:** ✅ Standard laptop - GPU access via cloud (AWS, GCP, Colab)
+**Hardware:** Yes - Standard laptop - GPU access via cloud (AWS, GCP, Colab)
 
 ---
 
-### **CONCEPT 3: Green Tech & AI for Sustainability**
+### CONCEPT 3: Green Tech & AI for Sustainability
 
-**What is Green Tech & AI for Sustainability?**
+**Overview:**
 Green Tech & AI for Sustainability applies data science and artificial intelligence to environmental and climate challenges. It includes: forecasting renewable energy production (solar, wind), optimizing smart grids and energy demand management, tracking CO2 emissions and corporate carbon footprint, ESG (Environmental, Social, Governance) reporting systems required by EU CSRD regulations, climate data analysis and environmental monitoring, and predictive maintenance for green infrastructure. This is a "purpose-driven" bootcamp that attracts professionals motivated by sustainability.
 
 **Strategic Rationale:**
@@ -388,7 +388,7 @@ Complete white space - zero bootcamps addressing sustainability tech in Europe. 
 
 **Market Evidence:**
 - Spain: 14.9% employment growth in electricity/gas sector ([Spain Education Monitor](https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/spain.html))
-- EU Green Deal: €1 trillion investment 2024-2030 ([European Commission Green Deal](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_en)) - *Note: Total includes public and private investment*
+- EU Green Deal: €1 trillion investment 2024-2030 ([European Commission Green Deal](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_en)) (includes public and private investment)
 - ESG reporting requirements (EU CSRD) mandate sustainability data specialists
 - **Competitive landscape:** 
   - **Global programs:** Columbia LEAP Climate Data Science bootcamp, Stanford AI for Climate Change bootcamp, MIT AI for Energy Solutions, SkillX AI Renewable Energy Analytics - but these are primarily academic/university programs or short-format courses (2-5 days, 4-8 weeks) vs. full 9-week bootcamp format
@@ -398,7 +398,7 @@ Complete white space - zero bootcamps addressing sustainability tech in Europe. 
     - EIT Digital: Data Science with Specialization in Sustainability Master's (in development)
     - AI4GreenDeal: EU-funded double-degree Master's combining energy systems engineering, AI, and data science
   - **Gap:** No European commercial bootcamp in traditional 9-week format combining AI/data science with green tech/sustainability
-- *Opportunity: First European commercial bootcamp in this space, but limited precedent suggests need for primary market validation*
+- Opportunity: First European commercial bootcamp in this space, but limited precedent suggests need for primary market validation
 
 **Why Zero Overlap:**
 - Domain-specific: Energy systems, climate tech, sustainability analytics
@@ -423,29 +423,29 @@ Complete white space - zero bootcamps addressing sustainability tech in Europe. 
 Sustainability Data Analyst, Energy Analytics Engineer, ESG Reporting Specialist, Climate Tech Data Scientist
 
 **Salary Outcomes (Europe):**
-€38K-48K entry → €55K-70K mid → €75K-95K senior
+€38K-48K entry:€55K-70K mid:€75K-95K senior
 
-**Partnerships (Critical):**
+**Partnerships:**
 Energy companies (Iberdrola, EDF, RWE), climate tech startups, GRI/CDP certifications
 
-**Hardware:** ✅ Standard laptop - Energy modeling via software/cloud
+**Hardware:** Yes - Standard laptop - Energy modeling via software/cloud
 
 ---
 
-### **CONCEPT 4: SAP S/4HANA Platform Engineering**
+### CONCEPT 4: SAP S/4HANA Platform Engineering
 
-**What is SAP S/4HANA Platform Engineering?**
+**Overview:**
 SAP S/4HANA is the ERP (Enterprise Resource Planning) system that manages core business processes for large enterprises: finance, supply chain, manufacturing, HR, sales. S/4HANA is the modern version replacing SAP ECC (legacy), with a mandatory migration deadline of December 31, 2027. The bootcamp teaches development in ABAP (SAP's proprietary language), creating modern interfaces with SAP Fiori/UI5, integrating with SAP BTP (Business Technology Platform), and managing migration strategies (Brownfield, Greenfield, Bluefield). 77% of global business transactions flow through SAP systems, creating massive developer demand.
 
 **Strategic Rationale:**
-Time-bound opportunity addressing urgent 2027 migration deadline. B2B corporate-funded market (employers pay for training). Different demographic (business analysts → developers) means net-new student pool.
+Time-bound opportunity addressing urgent 2027 migration deadline. B2B corporate-funded market (employers pay for training). Different demographic (business analysts:developers) means net-new student pool.
 
 **Market Evidence:**
 - **61% of SAP customers have NOT migrated** to S/4HANA (39% migrated per Gartner Q2 2024) ([SAP Migration Deadline](https://www.kellton.com/kellton-tech-blog/sap-ecc-s4hana-migration-2027-deadline))
 - **SAP ECC end of support:** December 31, 2027 ([SAP Support Dates](https://www.riministreet.com/blog/no-extension-to-ecc-support-2027-deadline/))
-- **Consultant shortage:** 92% believe lack of S/4HANA skills will slow migrations - *Note: Industry survey data, specific source not publicly available*
-- **Pricing power:** Consulting fees rising 30-50% due to undersupply - *Note: Industry analyst reports, specific source not publicly available*
-- SAP used by 77% of global transaction revenue (massive installed base) - *Note: SAP market claim, independent verification not found*
+- Consultant shortage: 92% believe lack of S/4HANA skills will slow migrations (industry survey, specific source not public)
+- Pricing power: Consulting fees rising 30-50% due to undersupply (analyst reports, source not public)
+- SAP used by 77% of global transaction revenue (SAP market claim, not independently verified)
 
 **Why vs. Salesforce:**
 - **SAP:** Urgent demand (2027 deadline), junior devs needed, undersupplied
@@ -468,24 +468,24 @@ Time-bound opportunity addressing urgent 2027 migration deadline. B2B corporate-
 SAP S/4HANA Developer, SAP ABAP Developer, SAP Fiori Developer, SAP Migration Consultant
 
 **Salary Outcomes (Europe):**
-€45K-55K entry → €60K-75K mid → €80K-100K+ senior (20-30% premium during migration wave)
+€45K-55K entry:€60K-75K mid:€80K-100K+ senior (20-30% premium during migration wave)
 
 **Vendor Certifications:**
 SAP Certified Development Associate (ABAP, Fiori, S/4HANA)
 
-**Partnerships (Critical):**
+**Partnerships:**
 SAP SE (Learning Hub, curriculum co-development), SAP partners (Accenture, Deloitte, Capgemini)
 
 **Revenue Model:**
 B2C (individuals) + B2B (corporate training contracts - companies sending employees)
 
-**Hardware:** ✅ Standard laptop - SAP BTP cloud access, Learning Hub sandboxes
+**Hardware:** Yes - Standard laptop - SAP BTP cloud access, Learning Hub sandboxes
 
 ---
 
-### **CONCEPT 5: Mobile Development with AI**
+### CONCEPT 5: Mobile Development with AI
 
-**What is Mobile Development with AI?**
+**Overview:**
 Mobile Development with AI teaches how to create applications for both iOS and Android using cross-platform frameworks (Flutter or React Native) that work on both systems from a single codebase. The key differentiation is on-device AI integration: machine learning models that run directly on the phone (without cloud connection) using frameworks like ML Kit (Google) and TensorFlow Lite. This enables features like offline voice recognition, intelligent photo filters, real-time translation, and virtual assistants that respect user privacy. Native iOS development (Swift/SwiftUI) is available as optional self-guided content for students with Mac access.
 
 **Strategic Rationale:**
@@ -493,7 +493,7 @@ Portfolio gap (competitor KeepCoding offers in Spain). On-device ML differentiat
 
 **Market Evidence:**
 - KeepCoding (Spain) offers mobile bootcamp - competitor presence indicates market exists
-- App economy $200B+ globally - *Note: Industry estimates (App Annie, Sensor Tower), specific report citation not available*
+- App economy $200B+ globally (industry estimates from App Annie, Sensor Tower)
 - Growing need for on-device AI (privacy regulations, latency, offline functionality)
 
 **Why Minimal Overlap:**
@@ -506,7 +506,7 @@ Portfolio gap (competitor KeepCoding offers in Spain). On-device ML differentiat
 *Cross-platform Development (Core Curriculum):*
 - Flutter or React Native fundamentals
 - Building for iOS and Android from single codebase
-- **On-device AI** (ML Kit, TensorFlow Lite) - DIFFERENTIATION
+- On-device AI (ML Kit, TensorFlow Lite) - this is the key differentiator vs traditional mobile bootcamps
 - Backend integration (Firebase, REST APIs, cloud services)
 - Mobile app architecture and performance
 - App Store & Google Play publishing
@@ -519,15 +519,15 @@ Portfolio gap (competitor KeepCoding offers in Spain). On-device ML differentiat
 iOS Developer, Android Developer, Mobile Developer (cross-platform), Mobile AI Engineer
 
 **Salary Outcomes (Europe):**
-€40K-50K entry → €55K-70K mid → €75K-90K senior (+15-20% for AI specialization)
+€40K-50K entry:€55K-70K mid:€75K-90K senior (+15-20% for AI specialization)
 
-**Hardware:** ✅ Standard laptop - Cross-platform (Flutter/React Native) works on any OS. Native iOS content is optional self-guided material for students with Mac access.
+**Hardware:** Yes - Standard laptop - Cross-platform (Flutter/React Native) works on any OS. Native iOS content is optional self-guided material for students with Mac access.
 
 ---
 
-### **CONCEPT 6: FinTech Engineering** *(NEW - WEF #2 Fastest-Growing Role)*
+### CONCEPT 6: FinTech Engineering
 
-**What is FinTech Engineering?**
+**Overview:**
 FinTech (Financial Technology) Engineering involves building and maintaining the software systems that power modern financial services. This includes digital banking platforms, payment processing systems, cryptocurrency and blockchain applications, algorithmic trading platforms, regulatory compliance automation (RegTech), and financial data analytics. FinTech Engineers bridge software development with deep understanding of financial regulations, security requirements, and real-time transaction processing.
 
 **Strategic Rationale:**
@@ -536,7 +536,7 @@ WEF Future of Jobs 2025 ranks FinTech Engineers as the #2 fastest-growing job gl
 **Market Evidence:**
 - **#2 fastest-growing role globally** ([WEF Future of Jobs 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/))
 - European fintech funding: €12B+ in 2024 (despite market correction from 2021-2022 peaks)
-- PSD2/PSD3 regulations driving Open Banking adoption → need for API developers
+- PSD2/PSD3 regulations driving Open Banking adoption:need for API developers
 - Digital Euro and CBDC development creating new infrastructure requirements
 - Crypto/DeFi recovery driving renewed blockchain development demand
 
@@ -559,18 +559,18 @@ WEF Future of Jobs 2025 ranks FinTech Engineers as the #2 fastest-growing job gl
 FinTech Developer, Payment Systems Engineer, Blockchain Developer, Trading Systems Developer, RegTech Engineer, Open Banking API Developer
 
 **Salary Outcomes (Europe):**
-€50K-65K entry → €70K-90K mid → €100K-130K+ senior (premium due to financial sector)
+€50K-65K entry:€70K-90K mid:€100K-130K+ senior (premium due to financial sector)
 
-**Partnerships (Critical):**
+**Partnerships:**
 Banks (ING, BBVA, N26), payment processors (Adyen, Stripe), fintech startups, blockchain platforms
 
-**Hardware:** ✅ Standard laptop - All development in standard environments, blockchain testnets
+**Hardware:** Yes - Standard laptop - All development in standard environments, blockchain testnets
 
 ---
 
-### **CONCEPT 7: IoT Development & Edge Computing** *(NEW - WEF #10 Fastest-Growing Role)*
+### CONCEPT 7: IoT Development & Edge Computing
 
-**What is IoT Development?**
+**Overview:**
 Internet of Things (IoT) Development involves creating connected device ecosystems where physical devices (sensors, actuators, controllers) communicate with each other and cloud systems to collect data, automate processes, and enable intelligent decision-making. IoT Developers work across the full stack: embedded firmware, communication protocols (MQTT, LoRaWAN, Zigbee), edge computing for local processing, and cloud integration for data analytics. Applications span smart homes, industrial automation (Industry 4.0), smart cities, healthcare monitoring, and agricultural tech.
 
 **Strategic Rationale:**
@@ -580,7 +580,7 @@ WEF Future of Jobs 2025 ranks IoT Specialists as #10 fastest-growing role. Indus
 - **#10 fastest-growing role globally** ([WEF Future of Jobs 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/))
 - European IoT market projected €200B+ by 2027
 - Industry 4.0 adoption accelerating in Germany (manufacturing), Netherlands (agriculture), Spain (logistics)
-- EU Chips Act investing €43B in semiconductor ecosystem → downstream IoT demand
+- EU Chips Act investing €43B in semiconductor ecosystem:downstream IoT demand
 - Edge AI market growing 25%+ annually as companies seek to reduce cloud dependency
 
 **Why Zero Overlap:**
@@ -603,18 +603,18 @@ WEF Future of Jobs 2025 ranks IoT Specialists as #10 fastest-growing role. Indus
 IoT Developer, Embedded Systems Engineer, Edge Computing Engineer, Industrial IoT Specialist, Smart Systems Developer
 
 **Salary Outcomes (Europe):**
-€45K-55K entry → €60K-80K mid → €85K-110K senior
+€45K-55K entry:€60K-80K mid:€85K-110K senior
 
-**Partnerships (Critical):**
+**Partnerships:**
 Industrial companies (Siemens, Bosch, ABB), IoT platforms (Arduino, Raspberry Pi Foundation), cloud providers (AWS IoT, Azure IoT)
 
-**Hardware:** ⚠️ Requires IoT development kits (€50-100 per student) - Arduino, ESP32, Raspberry Pi. Can be included in bootcamp fee or student-purchased. Standard laptop for development.
+**Hardware:** Partial - Requires IoT development kits (€50-100 per student) - Arduino, ESP32, Raspberry Pi. Can be included in bootcamp fee or student-purchased. Standard laptop for development.
 
 ---
 
-### **CONCEPT 8: AI-Powered Java Development**
+### CONCEPT 8: AI-Powered Java Development
 
-**What is AI-Powered Java Development?**
+**Overview:**
 This bootcamp takes a dual approach to Java in the AI era:
 1. **AI with Java** - Building Java applications that integrate AI/ML capabilities using modern frameworks (Spring AI, LangChain4j, Deep Java Library)
 2. **Java with AI** - Using AI coding assistants (GitHub Copilot, Cursor, Claude) to write Java code efficiently through "vibe coding" - conversational, prompt-driven development
@@ -671,20 +671,22 @@ Java powers the world's enterprise backend systems (banking, insurance, telecom,
 AI Java Developer, Enterprise Backend Developer, Java AI Integration Engineer, Spring Boot Developer
 
 **Salary Outcomes (Europe):**
-€45K-55K entry → €60K-80K mid → €85K-110K senior (premium for AI integration skills)
+€45K-55K entry:€60K-80K mid:€85K-110K senior (premium for AI integration skills)
 
 **Vendor Certifications:**
 Oracle Certified Java Developer (OCP), Spring Professional Certification
 
-**Hardware:** ✅ Standard laptop - All development in standard IDE (IntelliJ IDEA with AI plugins)
+**Hardware:** Yes - Standard laptop - All development in standard IDE (IntelliJ IDEA with AI plugins)
 
 ---
 
 ## Part 5: Portfolio Enhancement Recommendations
 
-**These are NOT new bootcamps** - integrate into existing programs to address identified gaps:
+**These are NOT new bootcamps** - integrate into existing programs to address identified gaps.
 
-### Enhancement 1: AI Engineering → Rebrand with LLM Focus
+*Note: AI Security is addressed through the proposed Cloud & AI Security Engineering bootcamp (Concept 1) rather than as an enhancement to the existing Cybersecurity program.*
+
+### Enhancement 1: AI Engineering:Rebrand with LLM Focus
 
 **Current state:** AI Engineering covers LLMs, RAG, fine-tuning, prompt engineering (~25% of curriculum)
 
@@ -694,14 +696,14 @@ Oracle Certified Java Developer (OCP), Spring Professional Certification
 - **Project rebalance:** 1 CV, 1 Classical ML, 2 LLM/GenAI projects
 - **Marketing:** Position as "THE LLM bootcamp in Europe"
 
-**Why:**
+Rationale:
 - Captures LLM hype without creating new bootcamp that cannibalizes existing
 - Post-ChatGPT enterprise rush creates demand for LLM specialists
 - Avoids market confusion ("Which bootcamp should I choose?")
 
 ---
 
-### Enhancement 2: Data Science & ML → Expand MLOps Module
+### Enhancement 2: Data Science & ML:Expand MLOps Module
 
 **Current state:** Data Science & ML lists "MLOps" in key skills but coverage is brief
 
@@ -710,26 +712,10 @@ Oracle Certified Java Developer (OCP), Spring Professional Certification
 - **Topics:** Feature stores (Feast), model registries (MLflow), ML monitoring (drift detection), experiment tracking (W&B), A/B testing for ML, model serving patterns
 - **Positioning:** "Data Scientist with Production Deployment Skills"
 
-**Why:**
+Rationale:
 - Addresses "56% of companies can't scale AI beyond pilots" problem
 - MLOps standalone would have 60-70% overlap with DevOps + Data Science
 - Strengthens existing flagship program without cannibalization
-
----
-
-### Enhancement 3: Cybersecurity → Add AI Security Module
-
-**Current state:** Cybersecurity covers general security (network, SIEM, pentesting, malware)
-
-**Recommendation:**
-- **Add module:** 3-4 week "AI Security" specialization (weeks 7-9 or integrated throughout)
-- **Topics:** Adversarial ML attacks, model poisoning, prompt injection, LLM jailbreaking, privacy attacks, AI governance, EU AI Act compliance
-- **Positioning:** "Cybersecurity Analyst with AI Security Specialization"
-
-**Why:**
-- Zero bootcamps teach AI Security in Europe (white space)
-- AI Security alone too immature for standalone bootcamp (~7-8 weeks content)
-- Adds emerging differentiation to existing program
 
 ---
 
@@ -742,7 +728,7 @@ Europe's 7.8 million ICT specialist projected shortfall by 2030 creates sustaine
 | Category | Count | Details |
 |----------|-------|---------|
 | New standalone bootcamps | 8 | See Part 4 table (4.0) |
-| Portfolio enhancements | 3 | AI Engineering (LLM rebrand), Data Science (MLOps), Cybersecurity (AI Security) |
+| Portfolio enhancements | 2 | AI Engineering (LLM rebrand), Data Science (MLOps) |
 | Not viable (overlap) | 4 | MLOps, AI Security standalone, LLM Engineering, Data Warehousing & BI |
 | Out of scope | 3 | Blockchain, Game Dev, Quantum |
 
@@ -830,4 +816,4 @@ Healthcare/care economy represents significant job growth but falls outside Iron
 
 **Report Prepared By:** Ironhack Product Strategy Team
 **Date:** January 29, 2026
-**Version:** 4.2 (Integrated WEF Future of Jobs 2025; added FinTech, IoT, AI Java concepts; reorganized to reduce repetition)
+**Version:** 4.3
