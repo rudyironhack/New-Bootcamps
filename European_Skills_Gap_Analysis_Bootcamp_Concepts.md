@@ -20,12 +20,12 @@ Europe faces a critical tech talent shortage. The EU employed 10.3 million ICT s
 - **Only 55.6% of Europeans** have basic digital skills ([CEDEFOP](https://www.cedefop.europa.eu/en/tools/skills-intelligence/skill-gap))
 
 **Report Structure:**
-1. Summary of European tech skills gaps with source citations (including WEF Future of Jobs 2025 data)
+1. European tech skills gaps (quantitative data, WEF growth roles, white spaces, declining roles)
 2. Ironhack's current 12-bootcamp portfolio
-3. Deep gap analysis vs. current portfolio (overlap assessment)
-4. Eight viable bootcamp concepts (filtered for standalone feasibility)
-5. Portfolio enhancement recommendations
-6. Appendix A: Healthcare & Care Economy (separate from main recommendations)
+3. Gap analysis vs. current portfolio (methodology, assessment table, competitor analysis)
+4. Eight bootcamp concept evaluations (summary table + detailed concepts)
+5. Portfolio enhancement recommendations (3 enhancements to existing bootcamps)
+6. Appendix A: Healthcare & Care Economy opportunity (separate consideration)
 
 ---
 
@@ -88,53 +88,46 @@ Percentage of workforce skills expected to change significantly by 2030:
 - 47% require MLOps skills (up 18pp in 5 years) (AI-Driven Research, Ironhack source document)
 - **56% of European companies cannot scale AI beyond pilots** - critical "last mile" problem (Accenture 2025, cited in Ironhack research)
 
-### 1.3 WEF Fastest-Growing Job Families 2025-2030
+### 1.3 Market Opportunities: WEF Growth Data + Bootcamp White Spaces
 
 **Top 10 Fastest-Growing Roles (WEF Future of Jobs 2025):**
 
-| Rank | Role | Sector | Portfolio Coverage |
-|------|------|--------|-------------------|
-| 1 | Big Data Specialists | Technology | ✅ Data Science & ML |
-| 2 | **FinTech Engineers** | Financial Services | ❌ GAP |
-| 3 | AI and Machine Learning Specialists | Technology | ✅ AI Engineering |
-| 4 | Software and Applications Developers | Technology | ✅ AI Web Development |
-| 5 | **Security Management Specialists** | Security | ⚠️ Partial (Cybersecurity) |
-| 6 | **Data Warehousing and BI Specialists** | Data | ✅ Data Science & ML* |
-| 7 | Autonomous/Electric Vehicle Specialists | Automotive | ❌ Out of scope |
-| 8 | UI and UX Designers | Design | ✅ UX/UI Design |
-| 9 | Light Truck/Delivery Services Drivers | Logistics | ❌ Out of scope |
-| 10 | **Internet of Things (IoT) Specialists** | Technology | ❌ GAP |
+| Rank | Role | Portfolio Coverage | Opportunity |
+|------|------|-------------------|-------------|
+| 1 | Big Data Specialists | ✅ Data Science & ML | Covered |
+| 2 | **FinTech Engineers** | ❌ None | **NEW BOOTCAMP** |
+| 3 | AI and Machine Learning Specialists | ✅ AI Engineering | Covered |
+| 4 | Software and Applications Developers | ✅ AI Web Development | Covered |
+| 5 | Security Management Specialists | ⚠️ Partial (Cybersecurity) | Enhance existing |
+| 6 | Data Warehousing and BI Specialists | ✅ Data Eng + Data Science & ML | Covered* |
+| 7 | Autonomous/Electric Vehicle Specialists | ❌ Out of scope | N/A |
+| 8 | UI and UX Designers | ✅ UX/UI Design | Covered |
+| 9 | Light Truck/Delivery Services Drivers | ❌ Out of scope | N/A |
+| 10 | **Internet of Things (IoT) Specialists** | ❌ None | **NEW BOOTCAMP** |
 
-*\*Data Warehousing & BI overlaps significantly with existing bootcamps: Data Engineering (pipelines, Airflow, dbt, Spark, cloud warehouses) and Data Science & ML (SQL, Tableau/Power BI, statistical analysis)*
+*\*Data Warehousing & BI covered by: Data Engineering (pipelines, Airflow, dbt, Spark, cloud warehouses) + Data Science & ML (SQL, Tableau/Power BI)*
 
-**Strategic Gaps Identified:**
-- **FinTech Engineering (#2)** - Zero coverage, high-growth financial technology sector
-- **IoT Development (#10)** - Zero coverage, expanding connected devices market
-- **Security Management (#5)** - Partial coverage; existing Cybersecurity bootcamp is technical, not management-focused
+**Additional White Spaces (high demand, minimal bootcamp coverage in Europe):**
 
-### 1.4 Emerging White Spaces
+| Opportunity | Current European Coverage | Ironhack Coverage |
+|-------------|--------------------------|-------------------|
+| AI Security & Adversarial ML | Zero dedicated bootcamps | ❌ None |
+| Computer Vision Engineering | 1 bootcamp (Datascientest) | ❌ None |
+| Green Tech & Sustainability AI | Zero bootcamps | ❌ None |
+| SAP S/4HANA Platform | Datascientest only | ❌ None |
+| Mobile Development with AI | KeepCoding (Spain) | ❌ None |
+| AI-Powered Java Development | Generic Java only (Spiced, Neue Fische) | ❌ None |
 
-Areas with **high demand but minimal bootcamp coverage:**
+**Out of Scope:** Blockchain & Web3 (market volatility), Game Development (hardware constraints), Quantum Computing (too early stage) - see Part 3 for rationale.
 
-1. **AI Security & Adversarial ML** - Zero dedicated bootcamps in Europe
-2. **Computer Vision Engineering** - Only 1 bootcamp (Datascientest "Deep learning for computer vision") in Europe
-3. **Conversational AI & LLM Engineering** - Post-ChatGPT enterprise rush, zero dedicated bootcamps
-4. **MLOps Production Systems** - Only Datascientest offers (5-month format)
-5. **Green Tech & Sustainability AI** - Zero bootcamps, EU Green Deal driving demand
-6. **Enterprise Platform (SAP S/4HANA)** - 61% customers not migrated (Gartner Q2 2024), 2027 deadline ([SAP Migration Deadline](https://www.kellton.com/kellton-tech-blog/sap-ecc-s4hana-migration-2027-deadline))
-7. **FinTech Engineering** - WEF #2 fastest-growing role; zero dedicated European bootcamps for payment systems, blockchain finance, trading platforms
-8. **IoT Development & Edge Computing** - WEF #10 fastest-growing role; minimal bootcamp coverage for connected devices, Industry 4.0, edge AI
-
-**Note:** Additional concepts were considered during research (Blockchain & Web3 Development, Game Development, Quantum Computing) but ruled out as out of scope - see Part 3.3.
-
-### 1.5 Skills Obsolescence Crisis
+### 1.4 Skills Obsolescence Crisis
 
 - **Half-life of technical skills:** 5 years general, 3 years for AI/ML ([OECD](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/empowering-the-workforce-in-the-context-of-a-skills-first-approach_0e3be363/345b6528-en.pdf))
 - **39% of existing skill sets** will require significant updates by 2030 ([WEF Future of Jobs 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/))
 - **59% of global workers** will need reskilling by 2030 ([WEF Future of Jobs 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/))
 - **Training investment gap:** 73% of orgs say they'll invest, only 29% actually do ([McKinsey](https://www.mckinsey.com/mgi/our-research/a-new-future-of-work-the-race-to-deploy-ai-and-raise-skills-in-europe-and-beyond))
 
-### 1.6 Declining Job Markets (Roles to Avoid)
+### 1.5 Declining Job Markets (Roles to Avoid)
 
 **Shrinking sectors** ([McKinsey 2025](https://www.mckinsey.com/mgi/our-research/a-new-future-of-work-the-race-to-deploy-ai-and-raise-skills-in-europe-and-beyond)):
 - **Customer service and sales** - Projected decline of -1.7% to -13.4% (depending on scenario)
@@ -221,27 +214,17 @@ For each identified skills gap:
 **NOT viable as standalone bootcamps:**
 
 *High overlap with existing portfolio:*
-- **MLOps** - big  overlap with DevOps + Data Science → **Integrate MLOps module (4-5 weeks) into Data Science & ML**
-- **AI Security standalone** - Too immature (few weeks content) → **Consider combining with a related cybersecurity track, ex cloud security**
-- **LLM Engineering** - big overlap with AI Engineering, and also AI consulting→ **Rebrand AI Engineering as "AI Engineering & LLM Development", increase LLM content from 25% to 40-50%**
+- **MLOps** → Integrate as 4-5 week module into Data Science & ML
+- **AI Security standalone** → Combine with Cloud Security (see Concept 1)
+- **LLM Engineering** → Rebrand AI Engineering with 40-50% LLM content (see Part 5)
+- **Data Warehousing & BI** (WEF #6) → Already covered by Data Engineering + Data Science & ML
 
 *Out of scope:*
-- **Blockchain & Web3 Development** - Market volatility, cyclical demand dependent on crypto market conditions
-- **Game Development & Interactive Media** - Hardware constraints (gaming laptop with GPU required), different target demographic than typical bootcamp students
-- **Quantum Computing** - Too early stage, discipline immature, nascent job market (insufficient 9-week content for bootcamp format)
+- **Blockchain & Web3** - Market volatility, crypto-dependent demand
+- **Game Development** - Hardware constraints, different demographic
+- **Quantum Computing** - Too early stage, insufficient bootcamp content
 
-**Viable as standalone bootcamps** (minimal overlap, sufficient content):
-1. Cloud & AI Security (merge cloud security + AI security)
-2. Computer Vision Engineering
-3. Green Tech & AI for Sustainability
-4. SAP S/4HANA Platform Engineering
-5. Mobile Development with AI
-6. **FinTech Engineering** *(NEW - WEF #2 fastest-growing role)*
-7. **IoT Development & Edge Computing** *(NEW - WEF #10 fastest-growing role)*
-8. **AI-Powered Java Development** - Enterprise Java with AI integration + AI-assisted coding ("vibe coding")
-
-**NOT viable as standalone - already covered:**
-- **Data Warehousing & BI** (WEF #6) - Overlaps with existing Data Engineering (pipelines, Airflow, dbt, Spark, cloud warehouses) and Data Science & ML (SQL, Tableau, Power BI) bootcamps 
+**Viable as standalone:** See table in 3.2 above → 8 concepts detailed in Part 4. 
 
 ### 3.4 Competitive Portfolio Analysis
 
@@ -272,6 +255,21 @@ Analysis of Ironhack vs. 6 key European competitors (Le Wagon, Nuclio, Spiced, N
 - Nuclio expanding into longer-format masters (18-22 weeks) targeting creative professionals and marketing strategists
 - IT Support and Java Development offered by Spiced/Neue Fische as entry-level and enterprise pathways
 
+### 3.5 Competitor Bootcamps Not Recommended for Ironhack
+
+The following competitor bootcamps were evaluated but **not recommended** for Ironhack:
+
+| Competitor Bootcamp | Why Not Recommended |
+|--------------------|--------------------|
+| IT Support | Shrinking job market (office support -3.7% to -18.5%) |
+| Digital Sales with AI | Shrinking job market (sales -1.7% to -13.4%) |
+| Business Analyst | Different skill segment (business ops vs. technical) |
+| IT Project Management | Different skill segment (business ops vs. technical) |
+| AI Strategy / Chief AI Officer | Executive focus, not hands-on technical |
+| Oracle ERP | Lower priority than SAP (smaller market share) |
+| Deep Learning specialized | Overlaps with Ironhack's Data Science & ML |
+| Java Development (generic) | Ironhack differentiates with AI-Powered Java (Concept 8) |
+
 ---
 
 ## Part 4: Bootcamp Concept Evaluations
@@ -288,7 +286,7 @@ Eight bootcamp concepts evaluated using the gap analysis methodology. All eight 
 | 2 | **Computer Vision Engineering** | Build systems that "see": image recognition, object detection, video analytics, autonomous systems | AI Specialist for imaging and video |
 | 3 | **Green Tech & AI for Sustainability** | Apply data science and AI to renewable energy, smart grids, carbon tracking, ESG reporting | Data Scientist for climate tech |
 | 4 | **SAP S/4HANA Platform Engineering** | Develop and migrate enterprise SAP systems (ABAP, Fiori, BTP) - 2027 deadline creates urgency | SAP Developer for enterprise companies |
-| 5 | **Mobile Development with AI** | Create iOS/Android apps with on-device AI (Core ML, ML Kit, TensorFlow Lite) | Mobile Developer with AI skills |
+| 5 | **Mobile Development with AI** | Create iOS/Android apps via cross-platform (Flutter/React Native) with on-device AI (ML Kit, TensorFlow Lite) | Mobile Developer with AI skills |
 | 6 | **FinTech Engineering** | Build digital financial systems: payments, blockchain, algorithmic trading, Open Banking, RegTech | Developer for banks and fintechs |
 | 7 | **IoT Development & Edge Computing** | Create connected device ecosystems: sensors, IoT protocols, edge AI, Industry 4.0 | Developer for smart devices and industrial automation |
 | 8 | **AI-Powered Java Development** | Modern enterprise Java + AI integration (Spring AI, LangChain4j) + coding with AI assistants | Enterprise Backend Developer with AI skills |
@@ -488,29 +486,34 @@ B2C (individuals) + B2B (corporate training contracts - companies sending employ
 ### **CONCEPT 5: Mobile Development with AI**
 
 **What is Mobile Development with AI?**
-Mobile Development with AI teaches how to create native applications for iOS (Swift, SwiftUI) and Android (Kotlin, Jetpack Compose), plus cross-platform solutions (React Native, Flutter) that work on both systems. The key differentiation is on-device AI integration: machine learning models that run directly on the phone (without cloud connection) using frameworks like Core ML (Apple), ML Kit (Google), and TensorFlow Lite. This enables features like offline voice recognition, intelligent photo filters, real-time translation, and virtual assistants that respect user privacy.
+Mobile Development with AI teaches how to create applications for both iOS and Android using cross-platform frameworks (Flutter or React Native) that work on both systems from a single codebase. The key differentiation is on-device AI integration: machine learning models that run directly on the phone (without cloud connection) using frameworks like ML Kit (Google) and TensorFlow Lite. This enables features like offline voice recognition, intelligent photo filters, real-time translation, and virtual assistants that respect user privacy. Native iOS development (Swift/SwiftUI) is available as optional self-guided content for students with Mac access.
 
 **Strategic Rationale:**
-Portfolio gap (competitor KeepCoding offers in Spain). On-device ML differentiation vs. traditional mobile dev. Cross-platform emphasis (React Native, Flutter) for versatility.
+Portfolio gap (competitor KeepCoding offers in Spain). On-device ML differentiation vs. traditional mobile dev. Cross-platform focus (Flutter/React Native) ensures all students can participate regardless of hardware.
 
 **Market Evidence:**
-- KeepCoding (Spain) successfully offers mobile bootcamp - proven demand
+- KeepCoding (Spain) offers mobile bootcamp - competitor presence indicates market exists
 - App economy $200B+ globally - *Note: Industry estimates (App Annie, Sensor Tower), specific report citation not available*
 - Growing need for on-device AI (privacy regulations, latency, offline functionality)
 
 **Why Minimal Overlap:**
 - AI Web Development covers React for **web** applications only (not mobile)
-- No iOS (Swift/SwiftUI) or Android (Kotlin/Jetpack Compose) coverage
-- React Native for mobile ≠ React for web (different APIs, lifecycle, deployment)
+- No mobile framework coverage (Flutter, React Native) in current portfolio
+- Cross-platform mobile ≠ web development (different APIs, lifecycle, app store deployment, on-device constraints)
 
 **Core Topics:**
-- iOS development (Swift, SwiftUI)
-- Android development (Kotlin, Jetpack Compose)
-- Cross-platform (React Native, Flutter)
-- **On-device AI** (Core ML, ML Kit, TensorFlow Lite) - DIFFERENTIATION
+
+*Cross-platform Development (Core Curriculum):*
+- Flutter or React Native fundamentals
+- Building for iOS and Android from single codebase
+- **On-device AI** (ML Kit, TensorFlow Lite) - DIFFERENTIATION
 - Backend integration (Firebase, REST APIs, cloud services)
 - Mobile app architecture and performance
 - App Store & Google Play publishing
+
+*Native iOS (Optional Self-Guided - requires Mac):*
+- Swift and SwiftUI fundamentals
+- Core ML for Apple-specific AI features
 
 **Target Roles:**
 iOS Developer, Android Developer, Mobile Developer (cross-platform), Mobile AI Engineer
@@ -518,14 +521,7 @@ iOS Developer, Android Developer, Mobile Developer (cross-platform), Mobile AI E
 **Salary Outcomes (Europe):**
 €40K-50K entry → €55K-70K mid → €75K-90K senior (+15-20% for AI specialization)
 
-**CONSTRAINT:** ⚠️ **iOS development requires Mac** (Xcode only runs on macOS)
-
-**Mitigation:**
-- Focus Android (Kotlin) + cross-platform (Flutter, React Native) - work on any laptop
-- iOS optional for students with Macs
-- Mac cloud access (MacinCloud, AWS Mac instances) - adds cost/latency
-
-**Hardware:** ⚠️ Android/cross-platform: standard laptop. iOS: Mac required (constraint)
+**Hardware:** ✅ Standard laptop - Cross-platform (Flutter/React Native) works on any OS. Native iOS content is optional self-guided material for students with Mac access.
 
 ---
 
@@ -684,44 +680,6 @@ Oracle Certified Java Developer (OCP), Spring Professional Certification
 
 ---
 
-## Part 4.6: Competitor Bootcamps Addressing Identified Skills Gaps
-
-Among the bootcamps offered by competitors, one addresses identified skills gaps from Part 1:
-
-### Java Development (Spiced, Neue Fische)
-
-**Skills Gap Addressed:**
-- **Advanced IT skills and programming** - 64% shortage ([McKinsey 2025](https://www.mckinsey.com/mgi/our-research/a-new-future-of-work-the-race-to-deploy-ai-and-raise-skills-in-europe-and-beyond)) - highest shortage identified
-
-**Market Context:**
-- Enterprise demand in banking, finance, insurance, large corporations
-- Germany-specific strength: 149,000+ unfilled IT positions ([Jobbatical 2025](https://www.jobbatical.com/blog/tech-talent-shortage-germany-2025))
-- Ironhack portfolio includes JavaScript/MERN (AI Web Development) but not Java
-
-**Format & Pricing:**
-- Standard bootcamp format (9-12 weeks)
-- €7-9K price range
-
-**Ironhack's Differentiated Response:**
-- **See Part 4, Concept 8: AI-Powered Java Development**
-- Rather than competing with generic Java bootcamps, Ironhack's concept differentiates through:
-  - AI integration with Java (Spring AI, LangChain4j)
-  - AI-assisted coding practices ("vibe coding")
-  - Enterprise modernization positioning
-
-**Other Competitor Bootcamps:**
-The remaining competitor bootcamps (IT Support, Business Analyst, AI Strategy/Chief AI Officer, Deep Learning specialized, IT Project Management, Digital Sales, AI for Creators, Marketing Automation, Oracle ERP) are not being evaluated for the following reasons:
-
-1. **Shrinking job markets** - According to [McKinsey 2025](https://www.mckinsey.com/mgi/our-research/a-new-future-of-work-the-race-to-deploy-ai-and-raise-skills-in-europe-and-beyond), customer service and sales roles are projected to shrink (-1.7% to -13.4% decline), and office support roles are expected to decline significantly (-3.7% to -18.5% decline). Bootcamps targeting these shrinking sectors (e.g., IT Support, Digital Sales, Business Analyst with office support focus) would face declining job market demand.
-
-2. **Different skill segments** - Some bootcamps target business operations vs. technical engineering roles (e.g., Business Analyst, IT Project Management), which don't align with the identified technical skills shortages.
-
-3. **Already-covered gaps** - Deep Learning specialized bootcamp overlaps with Ironhack's Data Science & ML bootcamp.
-
-4. **Executive/strategic focus** - Some bootcamps (AI Strategy/Chief AI Officer) focus on executive/strategic roles rather than hands-on technical implementation aligned with the identified technical skills shortages.
-
----
-
 ## Part 5: Portfolio Enhancement Recommendations
 
 **These are NOT new bootcamps** - integrate into existing programs to address identified gaps:
@@ -777,46 +735,18 @@ The remaining competitor bootcamps (IT Support, Business Analyst, AI Strategy/Ch
 
 ## Conclusion
 
-Europe's 7.8 million ICT specialist projected shortfall by 2030 creates sustained demand for specialized bootcamp education. The WEF Future of Jobs 2025 projects 170 million new jobs created and 92 million displaced globally by 2030, with skill disruption rates particularly high in Ironhack markets (Portugal 44%, Spain 37%, Germany 34%).
+Europe's 7.8 million ICT specialist projected shortfall by 2030 creates sustained demand for specialized bootcamp education. Skill disruption rates are particularly high in Ironhack markets (Portugal 44%, Spain 37%, Germany 34%).
 
-This analysis identifies:
+**Summary of Recommendations:**
 
-### Eight Viable Standalone Bootcamp Concepts:
+| Category | Count | Details |
+|----------|-------|---------|
+| New standalone bootcamps | 8 | See Part 4 table (4.0) |
+| Portfolio enhancements | 3 | AI Engineering (LLM rebrand), Data Science (MLOps), Cybersecurity (AI Security) |
+| Not viable (overlap) | 4 | MLOps, AI Security standalone, LLM Engineering, Data Warehousing & BI |
+| Out of scope | 3 | Blockchain, Game Dev, Quantum |
 
-1. **Cloud & AI Security Engineering** - Merge cloud security + AI security, minimal overlap with general cybersecurity (30-35% overlap likely)
-2. **Computer Vision Engineering** - Deep visual AI specialization, minimal overlap with AI Engineering
-3. **Green Tech & AI for Sustainability** - Complete white space, purpose-driven positioning
-4. **SAP S/4HANA Platform Engineering** - Time-bound opportunity (2027 deadline), B2B market
-5. **Mobile Development with AI** - Portfolio gap, on-device ML differentiation (Mac constraint for iOS)
-6. **FinTech Engineering** *(NEW)* - WEF #2 fastest-growing role; builds digital banking, payments, blockchain, and trading systems
-7. **IoT Development & Edge Computing** *(NEW)* - WEF #10 fastest-growing role; creates connected device ecosystems and Industry 4.0 applications
-8. **AI-Powered Java Development** *(REVISED)* - Enterprise Java with dual AI focus: building AI-integrated applications (Spring AI, LangChain4j) + AI-assisted coding ("vibe coding")
-
-### Not Viable - Already Covered:
-
-- **Data Warehousing & BI** (WEF #6 fastest-growing) - Already covered by existing Data Engineering + Data Science & ML bootcamps
-
-### Three Portfolio Enhancements (Not New Bootcamps):
-
-- **AI Engineering** → Rebrand as "AI Engineering & LLM Development", increase LLM content to 40-50%
-- **Data Science & ML** → Expand MLOps module to 4-5 weeks addressing production deployment gap
-- **Cybersecurity** → Add 3-4 week AI Security module as specialization
-
-### Key Findings:
-
-**Gaps NOT viable as standalone bootcamps:**
-
-*High overlap with existing portfolio:*
-- **MLOps** (60-70% overlap with DevOps + Data Science) → Integrate into Data Science & ML
-- **AI Security standalone** (too immature, ~7-8 weeks content) → Add module to Cybersecurity
-- **LLM Engineering** (70-80% overlap with AI Engineering) → Rebrand AI Engineering
-
-*Out of scope:*
-- **Blockchain & Web3** - Market volatility, crypto-dependent demand
-- **Game Development** - Hardware constraints (gaming GPU required), different demographic
-- **Quantum Computing** - Too early stage, insufficient bootcamp content
-
-**Hardware deliverability:** All 8 viable concepts can be delivered remotely with standard laptops (cloud GPU/infrastructure access). Mobile Development has Mac constraint for iOS mitigated by Android + cross-platform focus. IoT Development requires low-cost development kits (€50-100) that can be included in bootcamp fee.
+**Hardware:** All 8 concepts deliverable remotely with standard laptops. IoT requires €50-100 dev kits.
 
 ---
 
@@ -900,4 +830,4 @@ Healthcare/care economy represents significant job growth but falls outside Iron
 
 **Report Prepared By:** Ironhack Product Strategy Team
 **Date:** January 29, 2026
-**Version:** 4.1 (Integrated WEF Future of Jobs 2025 analysis: added FinTech Engineering, IoT Development, AI-Powered Java Development concepts; country-specific skill disruption data; healthcare appendix)
+**Version:** 4.2 (Integrated WEF Future of Jobs 2025; added FinTech, IoT, AI Java concepts; reorganized to reduce repetition)
